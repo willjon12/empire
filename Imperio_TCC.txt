@@ -1,0 +1,25 @@
+À fazer TCC
+
+campo custo no itens OS
+campos custo total e lucro total na OS
+Mão de obra em porcentagem(Serviço e Item)
+criptografia básica senha do usuário
+galeria
+
+concluidas:
+campo emissão
+Titulos funcionando
+tratar garantia data negativa
+verificar query consultar OS
+Titulos OS
+OS abertas
+tratar salvar item
+tratar tela salvar OS (titulo)
+verificar pesquisa de itens
+Vencimentos Titulos menu
+permissões titulos a receber e a pagar
+
+
+
+
+
